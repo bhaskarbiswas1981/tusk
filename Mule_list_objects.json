@@ -1,0 +1,599 @@
+{
+   "meta":    {
+      "page_number": 1,
+      "page_size": 10,
+      "pages_count": 1733303,
+      "results_count": 17333028
+   },
+   "links":    {
+      "self": "https://devapi.christies.com/mulesoft-objects-360-proc-api/api/v1/services/objects",
+      "next": "https://devapi.christies.com/mulesoft-objects-360-proc-api/api/v1/services/objects?page_number=2&page_size=10",
+      "last": "https://devapi.christies.com/mulesoft-objects-360-proc-api/api/v1/services/objects?page_number=1733303&page_size=10"
+   },
+   "data":    [
+            {
+         "type": "objects",
+         "id": "0a6cb08b-21b5-4fe1-9307-79db46895f94",
+         "attributes":          {
+            "uuid": "0a6cb08b-21b5-4fe1-9307-79db46895f94",
+            "title": "Oh My God...and For Those Really Stubborn Stains",
+            "object_category_term": "Fine Art",
+            "object_category_uuid": "6b9d9132-8b0d-4ce2-89e0-1f5c945827ab",
+            "object_subcategory_term": "Prints",
+            "object_subcategory_uuid": "451e50a5-5f4a-490b-a4a5-ca1b372a4296",
+            "description_text": "Oh My God...and For Those Really Stubborn Stains, from the same series, signed in pencil, unnumbered (as issued), the full sheets, apparently in good condition, unexamined out of the frames\nPlate 625 x 505 mm., Sheet 905 x 705 mm",
+            "inscription_text": "signed in pencil, unnumbered (as issued)",
+            "measurements":             [
+                              {
+                  "type": "width",
+                  "type_uuid": "91199fbe-eb10-47ef-a6e1-da376923d1d0",
+                  "unit": "cm",
+                  "unit_uuid": "c3b17c20-5eb1-4d9d-8267-fb66e7f470d3",
+                  "value": 70.5,
+                  "value_normalized": 70.5
+               },
+                              {
+                  "type": "height",
+                  "type_uuid": "12e066b9-17dc-41d1-a1d9-7156ae7a7f66",
+                  "unit": "cm",
+                  "unit_uuid": "c3b17c20-5eb1-4d9d-8267-fb66e7f470d3",
+                  "value": 90.5,
+                  "value_normalized": 90.5
+               },
+                              {
+                  "type": "width",
+                  "type_uuid": "91199fbe-eb10-47ef-a6e1-da376923d1d0",
+                  "unit": "cm",
+                  "unit_uuid": "c3b17c20-5eb1-4d9d-8267-fb66e7f470d3",
+                  "value": 50.5,
+                  "value_normalized": 50.5
+               },
+                              {
+                  "type": "height",
+                  "type_uuid": "12e066b9-17dc-41d1-a1d9-7156ae7a7f66",
+                  "unit": "cm",
+                  "unit_uuid": "c3b17c20-5eb1-4d9d-8267-fb66e7f470d3",
+                  "value": 62.5,
+                  "value_normalized": 62.5
+               }
+            ],
+            "measurements_text": "Plate 625 x 505 mm., Sheet 905 x 705 mm",
+            "provenance_text": "With Haunch of Venison, London\n\n",
+            "shown": true,
+            "gem_objects": [{}]
+         },
+         "relationships": {"lots": [         {
+            "links": {"self": "https://devapi.christies.com/mulesoft-objects-360-proc-api/api/v1/services/lots/7ad4f306-96b8-46ad-a6d2-70e11a7d517d"},
+            "data":             {
+               "type": "lots",
+               "id": "7ad4f306-96b8-46ad-a6d2-70e11a7d517d"
+            }
+         }]}
+      },
+            {
+         "type": "objects",
+         "id": "a5aaf1c4-2cbd-4ce5-aa56-289040498bde",
+         "attributes":          {
+            "uuid": "a5aaf1c4-2cbd-4ce5-aa56-289040498bde",
+            "title": "Spinning Wheel",
+            "object_category_term": "Fine Art",
+            "object_category_uuid": "6b9d9132-8b0d-4ce2-89e0-1f5c945827ab",
+            "object_subcategory_term": "Prints",
+            "object_subcategory_uuid": "451e50a5-5f4a-490b-a4a5-ca1b372a4296",
+            "description_text": "Spinning Wheel from the same series, signed in pencil, unnumbered (as issued), the full sheets, apparently in good condition, unexamined out of the frames\nPlate 220 x 190 mm., Sheet 915 x 710 mm",
+            "inscription_text": "signed in pencil, unnumbered (as issued)",
+            "measurements":             [
+                              {
+                  "type": "width",
+                  "type_uuid": "91199fbe-eb10-47ef-a6e1-da376923d1d0",
+                  "unit": "cm",
+                  "unit_uuid": "c3b17c20-5eb1-4d9d-8267-fb66e7f470d3",
+                  "value": 71,
+                  "value_normalized": 71
+               },
+                              {
+                  "type": "height",
+                  "type_uuid": "12e066b9-17dc-41d1-a1d9-7156ae7a7f66",
+                  "unit": "cm",
+                  "unit_uuid": "c3b17c20-5eb1-4d9d-8267-fb66e7f470d3",
+                  "value": 91.5,
+                  "value_normalized": 91.5
+               },
+                              {
+                  "type": "width",
+                  "type_uuid": "91199fbe-eb10-47ef-a6e1-da376923d1d0",
+                  "unit": "cm",
+                  "unit_uuid": "c3b17c20-5eb1-4d9d-8267-fb66e7f470d3",
+                  "value": 19,
+                  "value_normalized": 19
+               },
+                              {
+                  "type": "height",
+                  "type_uuid": "12e066b9-17dc-41d1-a1d9-7156ae7a7f66",
+                  "unit": "cm",
+                  "unit_uuid": "c3b17c20-5eb1-4d9d-8267-fb66e7f470d3",
+                  "value": 22,
+                  "value_normalized": 22
+               }
+            ],
+            "measurements_text": "Plate 220 x 190 mm., Sheet 915 x 710 mm",
+            "provenance_text": "With Haunch of Venison, London.\n\n",
+            "shown": true,
+            "gem_objects": [{}]
+         },
+         "relationships": {"lots": [         {
+            "links": {"self": "https://devapi.christies.com/mulesoft-objects-360-proc-api/api/v1/services/lots/a48e8240-5d3f-4a92-9abc-175dbc920c1f"},
+            "data":             {
+               "type": "lots",
+               "id": "a48e8240-5d3f-4a92-9abc-175dbc920c1f"
+            }
+         }]}
+      },
+            {
+         "type": "objects",
+         "id": "c500afe2-2a17-4c4c-afe3-79f7dad1f9d3",
+         "attributes":          {
+            "uuid": "c500afe2-2a17-4c4c-afe3-79f7dad1f9d3",
+            "object_category_term": "Fine Art",
+            "object_category_uuid": "6b9d9132-8b0d-4ce2-89e0-1f5c945827ab",
+            "object_subcategory_term": "Photographs",
+            "object_subcategory_uuid": "550237ff-64e7-40bb-866b-13c61258cad2",
+            "shown": false,
+            "gem_objects": [{}]
+         },
+         "relationships": {"lots": [         {
+            "links": {"self": "https://devapi.christies.com/mulesoft-objects-360-proc-api/api/v1/services/lots/5c327ee3-704b-4d96-9045-e2ae64797e7e"},
+            "data":             {
+               "type": "lots",
+               "id": "5c327ee3-704b-4d96-9045-e2ae64797e7e"
+            }
+         }]}
+      },
+            {
+         "type": "objects",
+         "id": "f306613f-d2b6-49ed-a31f-aded28948557",
+         "attributes":          {
+            "uuid": "f306613f-d2b6-49ed-a31f-aded28948557",
+            "shown": false,
+            "gem_objects": [{}]
+         },
+         "relationships": {"lots": [         {
+            "links": {"self": "https://devapi.christies.com/mulesoft-objects-360-proc-api/api/v1/services/lots/5c327ee3-704b-4d96-9045-e2ae64797e7e"},
+            "data":             {
+               "type": "lots",
+               "id": "5c327ee3-704b-4d96-9045-e2ae64797e7e"
+            }
+         }]}
+      },
+            {
+         "type": "objects",
+         "id": "8393de62-06f4-45be-8242-370b1cfc62d5",
+         "attributes":          {
+            "uuid": "8393de62-06f4-45be-8242-370b1cfc62d5",
+            "title": "UNTITLED ",
+            "object_category_term": "Fine Art",
+            "object_category_uuid": "6b9d9132-8b0d-4ce2-89e0-1f5c945827ab",
+            "creation_date_text": "1952",
+            "creation_finish_year": 1952,
+            "creation_start_year": 1952,
+            "makers": [            {
+               "birth_date": "1929",
+               "name": "Yayoi Kusama",
+               "uuid": "6c591687-3680-4c0f-a00d-47db1f56b1bd"
+            }],
+            "shown": false,
+            "gem_objects": [{}]
+         },
+         "relationships": {"lots": [         {
+            "links": {"self": "https://devapi.christies.com/mulesoft-objects-360-proc-api/api/v1/services/lots/5c327ee3-704b-4d96-9045-e2ae64797e7e"},
+            "data":             {
+               "type": "lots",
+               "id": "5c327ee3-704b-4d96-9045-e2ae64797e7e"
+            }
+         }]}
+      },
+            {
+         "type": "objects",
+         "id": "b94616fb-63e0-4854-aef1-023a06aeee57",
+         "attributes":          {
+            "uuid": "b94616fb-63e0-4854-aef1-023a06aeee57",
+            "shown": false,
+            "gem_objects": [{}]
+         }
+      },
+            {
+         "type": "objects",
+         "id": "6b0b298a-5a4a-4ba2-8c94-cade2cc7e3f8",
+         "attributes":          {
+            "uuid": "6b0b298a-5a4a-4ba2-8c94-cade2cc7e3f8",
+            "shown": false,
+            "gem_objects": [{}]
+         }
+      },
+            {
+         "type": "objects",
+         "id": "d2f006c9-eb12-4045-9765-32f84bd3862c",
+         "attributes":          {
+            "uuid": "d2f006c9-eb12-4045-9765-32f84bd3862c",
+            "title": "MINNIE (PINK GLITTER) ",
+            "object_category_term": "Fine Art",
+            "object_category_uuid": "6b9d9132-8b0d-4ce2-89e0-1f5c945827ab",
+            "object_subcategory_term": "Prints",
+            "object_subcategory_uuid": "451e50a5-5f4a-490b-a4a5-ca1b372a4296",
+            "creation_date_text": "2015",
+            "creation_finish_year": 2015,
+            "creation_start_year": 2015,
+            "description_text": "Damien Hirst\nB.1965\nMINNIE (PINK GLITTER) \nExecuted in 2015, number 67 from an edition of 150.\nsigned, stamped with the artist's seal and numbered 67/150 on the backing board\nsilkscreen print with glitter\n87.5 by 70 cm, 34 1/2  by 27 1/2  in. ",
+            "edition_text": "number 67 from an edition of 150.",
+            "inscription_text": "signed, stamped with the artist's seal and numbered 67/150 on the backing board",
+            "makers": [            {
+               "birth_date": "1965",
+               "name": "Damien Hirst",
+               "uuid": "e924435d-f045-4e41-8839-a5da6d75e895"
+            }],
+            "materials":             [
+                              {
+                  "uuid": "d4a1f6d2-beb0-4b0e-8583-f7c27ab7bef0",
+                  "term": "glitter"
+               },
+                              {
+                  "uuid": "a1655d65-1d8e-47ca-96bc-ec23690fc232",
+                  "term": "silkscreen printing"
+               }
+            ],
+            "materials_text": "silkscreen print with glitter",
+            "measurements":             [
+                              {
+                  "type": "width",
+                  "type_uuid": "91199fbe-eb10-47ef-a6e1-da376923d1d0",
+                  "unit": "in",
+                  "unit_uuid": "d31994f3-e639-4b49-8a65-3a285065c068",
+                  "value": 27.5,
+                  "value_normalized": 69.85
+               },
+                              {
+                  "type": "height",
+                  "type_uuid": "12e066b9-17dc-41d1-a1d9-7156ae7a7f66",
+                  "unit": "in",
+                  "unit_uuid": "d31994f3-e639-4b49-8a65-3a285065c068",
+                  "value": 34.5,
+                  "value_normalized": 87.63
+               }
+            ],
+            "measurements_text": " 87.5 by 70 cm, 34 1/2  by 27 1/2  in. ",
+            "provenance_text": "Other Criteria, London\nAcquired from the above by the present owner",
+            "shown": true,
+            "gem_objects": [{}]
+         },
+         "relationships": {"lots": [         {
+            "links": {"self": "https://devapi.christies.com/mulesoft-objects-360-proc-api/api/v1/services/lots/be570eb7-a1d6-4adc-924e-12dab1bd259f"},
+            "data":             {
+               "type": "lots",
+               "id": "be570eb7-a1d6-4adc-924e-12dab1bd259f"
+            }
+         }]}
+      },
+            {
+         "type": "objects",
+         "id": "8a48327a-82ba-4596-8dee-611414c7688e",
+         "attributes":          {
+            "uuid": "8a48327a-82ba-4596-8dee-611414c7688e",
+            "title": "Ammonium Sulfamate, from 40 Woodcut Spots",
+            "object_category_term": "Fine Art",
+            "object_category_uuid": "6b9d9132-8b0d-4ce2-89e0-1f5c945827ab",
+            "object_subcategory_term": "Prints",
+            "object_subcategory_uuid": "451e50a5-5f4a-490b-a4a5-ca1b372a4296",
+            "creation_date_text": "2011",
+            "creation_finish_year": 2011,
+            "creation_start_year": 2011,
+            "description_text": "DAMIEN HIRST\nAmmonium Sulfamate, from 40 Woodcut Spots\n2011\nwoodcuts in colours, on Somerset Textured paper, with full margins.\nI. various size\nS. approx. 16 x 15.5 cm (6 1/4 x 6 1/8 in.)\nsigned in pencil on the front and numbered 28/55 in pencil on the reverse (there were also 10 artist's proofs), published by The Paragon Press, London, framed. ",
+            "edition_text": "numbered 28/55(there were also 10 artist's proofs)",
+            "inscription_text": "signed in pencil on the front and numbered 28/55 in pencil on the reverse (there were also 10 artist's proofs)\n",
+            "makers": [            {
+               "birth_date": "1965",
+               "name": "Damien Hirst",
+               "uuid": "e924435d-f045-4e41-8839-a5da6d75e895"
+            }],
+            "measurements":             [
+                              {
+                  "type": "width",
+                  "type_uuid": "91199fbe-eb10-47ef-a6e1-da376923d1d0",
+                  "unit": "cm",
+                  "unit_uuid": "c3b17c20-5eb1-4d9d-8267-fb66e7f470d3",
+                  "value": 15.5,
+                  "value_normalized": 15.5
+               },
+                              {
+                  "type": "height",
+                  "type_uuid": "12e066b9-17dc-41d1-a1d9-7156ae7a7f66",
+                  "unit": "cm",
+                  "unit_uuid": "c3b17c20-5eb1-4d9d-8267-fb66e7f470d3",
+                  "value": 16,
+                  "value_normalized": 16
+               }
+            ],
+            "measurements_text": "I. various size; S. approx. 16 x 15.5 cm (6 1/4 x 6 1/8 in.)\n",
+            "shown": true,
+            "gem_objects": [{}]
+         },
+         "relationships": {"lots": [         {
+            "links": {"self": "https://devapi.christies.com/mulesoft-objects-360-proc-api/api/v1/services/lots/06b50452-6ea4-4898-b939-8f1806cca9e0"},
+            "data":             {
+               "type": "lots",
+               "id": "06b50452-6ea4-4898-b939-8f1806cca9e0"
+            }
+         }]}
+      },
+            {
+         "type": "objects",
+         "id": "c55a7ad6-f441-4bef-ab1d-ab4ec43269b4",
+         "attributes":          {
+            "uuid": "c55a7ad6-f441-4bef-ab1d-ab4ec43269b4",
+            "title": "Nifedipine, from 40 Woodcut Spots",
+            "object_category_term": "Fine Art",
+            "object_category_uuid": "6b9d9132-8b0d-4ce2-89e0-1f5c945827ab",
+            "object_subcategory_term": "Prints",
+            "object_subcategory_uuid": "451e50a5-5f4a-490b-a4a5-ca1b372a4296",
+            "creation_date_text": "2011",
+            "creation_finish_year": 2011,
+            "creation_start_year": 2011,
+            "description_text": "DAMIEN HIRST\nNifedipine, from 40 Woodcut Spots\nwoodcuts in colours, on Somerset Textured paper, with full margin.\nI. various sizes\nS. 15.2 x 15.2 cm (6 1/8 x 6 1/8 in.)\nsigned in pencil on the front and numbered 25/55 in pencil on the reverse, published by The Paragon Press, London, framed.",
+            "edition_text": "numbered 25/55",
+            "inscription_text": "signed in pencil on the front and numbered 25/55 in pencil on the reverse\n",
+            "makers":             [
+                              {
+                  "birth_date": "1965",
+                  "name": "Damien Hirst",
+                  "uuid": "e924435d-f045-4e41-8839-a5da6d75e895"
+               },
+                              {
+                  "birth_date": "1986",
+                  "name": "Paragon Press",
+                  "uuid": "c4ff7cc7-de64-4efd-9085-a775f6a370fa"
+               }
+            ],
+            "materials":             [
+                              {
+                  "uuid": "c6db7379-834b-416d-9ed9-0c6768a949cb",
+                  "term": "color woodcut printing"
+               },
+                              {
+                  "uuid": "1f0a464a-b0f5-4664-a6e2-d87b3f3ba230",
+                  "term": "somerset textured paper"
+               }
+            ],
+            "materials_text": "woodcuts in colours, on Somerset Textured paper",
+            "measurements":             [
+                              {
+                  "type": "height",
+                  "type_uuid": "12e066b9-17dc-41d1-a1d9-7156ae7a7f66",
+                  "unit": "cm",
+                  "unit_uuid": "c3b17c20-5eb1-4d9d-8267-fb66e7f470d3",
+                  "value": 15.2,
+                  "value_normalized": 15.2
+               },
+                              {
+                  "type": "width",
+                  "type_uuid": "91199fbe-eb10-47ef-a6e1-da376923d1d0",
+                  "unit": "cm",
+                  "unit_uuid": "c3b17c20-5eb1-4d9d-8267-fb66e7f470d3",
+                  "value": 15.2,
+                  "value_normalized": 15.2
+               }
+            ],
+            "measurements_text": "I. various size; S. 15.2 x 15.2 cm (6 1/8 x 6 1/8 in.)\n",
+            "shown": true,
+            "gem_objects": [{}]
+         },
+         "relationships": {"lots": [         {
+            "links": {"self": "https://devapi.christies.com/mulesoft-objects-360-proc-api/api/v1/services/lots/95bda681-ce95-4849-9a5f-a04f609e2ce2"},
+            "data":             {
+               "type": "lots",
+               "id": "95bda681-ce95-4849-9a5f-a04f609e2ce2"
+            }
+         }]}
+      }
+   ],
+   "included":    [
+            {
+         "type": "lots",
+         "id": "7ad4f306-96b8-46ad-a6d2-70e11a7d517d",
+         "attributes":          {
+            "uuid": "7ad4f306-96b8-46ad-a6d2-70e11a7d517d",
+            "title": "All Around the World, From: In a Spin, The Action of the World on Things, Volume I",
+            "object_category_term": "Sold",
+            "object_category_uuid": true,
+            "session_uuid": "2d75de09-7cc6-4022-8fa6-3b82de3b32ce",
+            "session_start_date": "2016-05-19",
+            "session_finish_date": "2016-05-19",
+            "sale_uuid": "cf56332e-8e8b-4ffa-a1f9-19541191295a",
+            "sale_title": "Prints & Multiples",
+            "price_usd": 2363.48,
+            "number": "226",
+            "is_premium_price": true,
+            "id": 5508623,
+            "estimate_low_usd": 1454.45,
+            "estimate_low": 1000,
+            "estimate_high_usd": 2181.68,
+            "estimate_high": 1500,
+            "description": "Damien Hirst (b. 1965)\nAll around the world, from: In a Spin, The Action of the World on Things, Volume I\netching in colours, 2002, on wove paper, signed in pencil, unnumbered (as issued) from the edition of 68 (there were also 12 artist's proofs), published by Paragon Press, London; together with Oh My God...and For Those Really Stubborn Stains, from the same series, signed in pencil, unnumbered (as issued), the full sheets, apparently in good condition, unexamined out of the frames \n\n\n\nPlate 625 x 505 mm., Sheet 905 x 705 mm (and similar)\n(2)",
+            "auction_house_uuid": "5dcadd63-cc05-4532-9071-53cfa3fcd565"
+         }
+      },
+            {
+         "type": "lots",
+         "id": "a48e8240-5d3f-4a92-9abc-175dbc920c1f",
+         "attributes":          {
+            "uuid": "a48e8240-5d3f-4a92-9abc-175dbc920c1f",
+            "title": "Wheel within a Wheel, from: In a Spin, The Action of the World on Things, Volume I",
+            "object_category_term": "Sold",
+            "object_category_uuid": true,
+            "session_uuid": "2d75de09-7cc6-4022-8fa6-3b82de3b32ce",
+            "session_start_date": "2016-05-19",
+            "session_finish_date": "2016-05-19",
+            "sale_uuid": "cf56332e-8e8b-4ffa-a1f9-19541191295a",
+            "sale_title": "Prints & Multiples",
+            "price_usd": 1999.87,
+            "number": "225",
+            "is_premium_price": true,
+            "id": 5508601,
+            "estimate_low_usd": 1454.45,
+            "estimate_low": 1000,
+            "estimate_high_usd": 2181.68,
+            "estimate_high": 1500,
+            "description": "Damien Hirst (b. 1965)\nWheel within a Wheel, from: In a Spin, The Action of the World on Things, Volume I\netching in colours, 2002, on wove paper, signed in pencil, unnumbered (as issued) from the edition of 68 (there were also 12 artist's proofs), published by Paragon Press, London; together with Spinning Wheel from the same series, signed in pencil, unnumbered (as issued), the full sheets, apparently in good condition, unexamined out of the frames\n\nPlate 220 x 190 mm., Sheet 915 x 710 mm. (and similar)\n(2)",
+            "auction_house_uuid": "5dcadd63-cc05-4532-9071-53cfa3fcd565"
+         }
+      },
+            {
+         "type": "lots",
+         "id": "5c327ee3-704b-4d96-9045-e2ae64797e7e",
+         "attributes":          {
+            "uuid": "5c327ee3-704b-4d96-9045-e2ae64797e7e",
+            "title": "UNTITLED (GROUP OF FOUR DRAWINGS)",
+            "object_category_term": "Sold",
+            "object_category_uuid": true,
+            "session_uuid": "ad22b1de-caef-4b92-93ee-cd156b9a3dfd",
+            "session_start_date": "2004-05-13",
+            "session_finish_date": "2004-05-13",
+            "sale_uuid": "cb4879b9-753b-4a01-b9ed-5686e5b8446c",
+            "sale_title": "Contemporary Art, Part Two",
+            "price_usd": 72000,
+            "number": "132",
+            "is_premium_price": true,
+            "id": 6137232,
+            "estimate_low_usd": 35000,
+            "estimate_low": 35000,
+            "estimate_high_usd": 45000,
+            "estimate_high": 45000,
+            "description": "Yayoi Kusama\nB.1929\nUNTITLED (GROUP OF FOUR DRAWINGS)\n(i.)   signed and dated 1951; signed, titled, Infinity Nets and dated 1951 on the reverse\n(ii.)  signed and dated 1952; signed twice, dated 1952 and inscribed No 72 on the reverse\n(iii.) signed and stamp dated 1952; stamped with artist's name on the reverse\n(iv.) signed and dated 1953; signed twice, dated 1953 and inscribed No 14 on the reverse\n\n\n(i.)   ink on colored paper\n(ii.)  ink on Japanese paper\n(iii.) ink and pencil on paper\n(iv.) ink on Japanese paper \n\n\n(i) 15 1/2 by 10 1/2 in. 38.1 by 26.7 cm. (ii) 16 1/2 by 11 1/2 in. 41.9 by 29.2 cm. (iii) 13 3/4 by 10 in. 34.9 by 25.4 cm. (iv) 16 1/2 by 11 1/2 in. 41.9 by 29.2 cm.",
+            "auction_house_uuid": "1400de22-006e-47fe-b03c-b4f36426450a"
+         }
+      },
+            {
+         "type": "lots",
+         "id": "5c327ee3-704b-4d96-9045-e2ae64797e7e",
+         "attributes":          {
+            "uuid": "5c327ee3-704b-4d96-9045-e2ae64797e7e",
+            "title": "UNTITLED (GROUP OF FOUR DRAWINGS)",
+            "object_category_term": "Sold",
+            "object_category_uuid": true,
+            "session_uuid": "ad22b1de-caef-4b92-93ee-cd156b9a3dfd",
+            "session_start_date": "2004-05-13",
+            "session_finish_date": "2004-05-13",
+            "sale_uuid": "cb4879b9-753b-4a01-b9ed-5686e5b8446c",
+            "sale_title": "Contemporary Art, Part Two",
+            "price_usd": 72000,
+            "number": "132",
+            "is_premium_price": true,
+            "id": 6137232,
+            "estimate_low_usd": 35000,
+            "estimate_low": 35000,
+            "estimate_high_usd": 45000,
+            "estimate_high": 45000,
+            "description": "Yayoi Kusama\nB.1929\nUNTITLED (GROUP OF FOUR DRAWINGS)\n(i.)   signed and dated 1951; signed, titled, Infinity Nets and dated 1951 on the reverse\n(ii.)  signed and dated 1952; signed twice, dated 1952 and inscribed No 72 on the reverse\n(iii.) signed and stamp dated 1952; stamped with artist's name on the reverse\n(iv.) signed and dated 1953; signed twice, dated 1953 and inscribed No 14 on the reverse\n\n\n(i.)   ink on colored paper\n(ii.)  ink on Japanese paper\n(iii.) ink and pencil on paper\n(iv.) ink on Japanese paper \n\n\n(i) 15 1/2 by 10 1/2 in. 38.1 by 26.7 cm. (ii) 16 1/2 by 11 1/2 in. 41.9 by 29.2 cm. (iii) 13 3/4 by 10 in. 34.9 by 25.4 cm. (iv) 16 1/2 by 11 1/2 in. 41.9 by 29.2 cm.",
+            "auction_house_uuid": "1400de22-006e-47fe-b03c-b4f36426450a"
+         }
+      },
+            {
+         "type": "lots",
+         "id": "5c327ee3-704b-4d96-9045-e2ae64797e7e",
+         "attributes":          {
+            "uuid": "5c327ee3-704b-4d96-9045-e2ae64797e7e",
+            "title": "UNTITLED (GROUP OF FOUR DRAWINGS)",
+            "object_category_term": "Sold",
+            "object_category_uuid": true,
+            "session_uuid": "ad22b1de-caef-4b92-93ee-cd156b9a3dfd",
+            "session_start_date": "2004-05-13",
+            "session_finish_date": "2004-05-13",
+            "sale_uuid": "cb4879b9-753b-4a01-b9ed-5686e5b8446c",
+            "sale_title": "Contemporary Art, Part Two",
+            "price_usd": 72000,
+            "number": "132",
+            "is_premium_price": true,
+            "id": 6137232,
+            "estimate_low_usd": 35000,
+            "estimate_low": 35000,
+            "estimate_high_usd": 45000,
+            "estimate_high": 45000,
+            "description": "Yayoi Kusama\nB.1929\nUNTITLED (GROUP OF FOUR DRAWINGS)\n(i.)   signed and dated 1951; signed, titled, Infinity Nets and dated 1951 on the reverse\n(ii.)  signed and dated 1952; signed twice, dated 1952 and inscribed No 72 on the reverse\n(iii.) signed and stamp dated 1952; stamped with artist's name on the reverse\n(iv.) signed and dated 1953; signed twice, dated 1953 and inscribed No 14 on the reverse\n\n\n(i.)   ink on colored paper\n(ii.)  ink on Japanese paper\n(iii.) ink and pencil on paper\n(iv.) ink on Japanese paper \n\n\n(i) 15 1/2 by 10 1/2 in. 38.1 by 26.7 cm. (ii) 16 1/2 by 11 1/2 in. 41.9 by 29.2 cm. (iii) 13 3/4 by 10 in. 34.9 by 25.4 cm. (iv) 16 1/2 by 11 1/2 in. 41.9 by 29.2 cm.",
+            "auction_house_uuid": "1400de22-006e-47fe-b03c-b4f36426450a"
+         }
+      },
+            {
+         "type": "lots",
+         "id": "be570eb7-a1d6-4adc-924e-12dab1bd259f",
+         "attributes":          {
+            "uuid": "be570eb7-a1d6-4adc-924e-12dab1bd259f",
+            "title": "I. MICKEY (BLUE GLITTER); II. MINNIE (PINK GLITTER) (TWO WORKS)",
+            "object_category_term": "Sold",
+            "object_category_uuid": true,
+            "session_uuid": "cad43593-2c97-483c-bfee-b8e1160bc1bd",
+            "session_start_date": "2016-06-23",
+            "session_finish_date": "2016-06-23",
+            "sale_uuid": "eaa3b4b3-0d9e-4082-8174-01a8fe5c7357",
+            "sale_title": "Boundless: Contemporary Art",
+            "price_usd": 27393.38,
+            "number": "576",
+            "is_premium_price": true,
+            "id": 5662877,
+            "estimate_low_usd": 10312.8,
+            "estimate_low": 80000,
+            "estimate_high_usd": 19336.5,
+            "estimate_high": 150000,
+            "description": "Damien Hirst\nB.1965\nI. MICKEY (BLUE GLITTER); II. MINNIE (PINK GLITTER) (TWO WORKS)\nExecuted in 2015, the works are number 67 from an edition of 150.\neach signed, stamped with the artist's seal and numbered 67/150 on the backing board\nsilkscreen print with glitter\nEach: 87.5 by 70 cm, 34 1/2  by 27 1/2  in.",
+            "auction_house_uuid": "1400de22-006e-47fe-b03c-b4f36426450a"
+         }
+      },
+            {
+         "type": "lots",
+         "id": "06b50452-6ea4-4898-b939-8f1806cca9e0",
+         "attributes":          {
+            "uuid": "06b50452-6ea4-4898-b939-8f1806cca9e0",
+            "title": "Rhodotorulic Acid; and Ammonium Sulfamate, from 40 Woodcut Spots",
+            "object_category_term": "Sold",
+            "object_category_uuid": true,
+            "session_uuid": "544a6bb4-b0ef-4806-afa4-ddea59b46f96",
+            "session_start_date": "2017-06-07",
+            "session_finish_date": "2017-06-07",
+            "sale_uuid": "5bd53b8a-ac19-41f8-894b-d1257627cbbf",
+            "sale_title": "Evening & Day Editions",
+            "price_usd": 6481.65,
+            "number": "205",
+            "is_premium_price": true,
+            "id": 20850539,
+            "estimate_low_usd": 2592.66,
+            "estimate_low": 2000,
+            "estimate_high_usd": 3888.99,
+            "estimate_high": 3000,
+            "description": "DAMIEN HIRST\nRhodotorulic Acid; and Ammonium Sulfamate, from 40 Woodcut Spots\n\n2011\nTwo woodcuts in colours, on Somerset Textured paper, with full margins.\nboth I. various sizes,\nboth S. approx. 16 x 15.5 cm (6 1/4 x 6 1/8 in.)\nBoth signed in pencil on the front and numbered 28/55 in pencil on the reverse (there were also 10 artist's proofs), published by The Paragon Press, London, both framed.",
+            "auction_house_uuid": "04aafb4b-ba3f-4971-b73f-a4316b9cd927"
+         }
+      },
+            {
+         "type": "lots",
+         "id": "95bda681-ce95-4849-9a5f-a04f609e2ce2",
+         "attributes":          {
+            "uuid": "95bda681-ce95-4849-9a5f-a04f609e2ce2",
+            "title": "Picrotoxin; and Nifedipine, from 40 Woodcut Spots",
+            "object_category_term": "Sold",
+            "object_category_uuid": true,
+            "session_uuid": "8e08ee82-baea-4b15-8ece-faf835cb58c7",
+            "session_start_date": "2017-01-19",
+            "session_finish_date": "2017-01-19",
+            "sale_uuid": "894c22b6-95d8-44fb-8cc1-eb652091559a",
+            "sale_title": "Evening & Day Editions",
+            "price_usd": 6169.05,
+            "number": "181",
+            "is_premium_price": true,
+            "id": 20844461,
+            "estimate_low_usd": 2467.62,
+            "estimate_low": 2000,
+            "estimate_high_usd": 3701.43,
+            "estimate_high": 3000,
+            "description": "DAMIEN HIRST\nPicrotoxin; and Nifedipine, from 40 Woodcut Spots\n\n2011\nTwo woodcuts in colours, on Somerset Textured paper, with full margins.\nboth I. various sizes\nboth S. 15.2 x 15.2 cm (6 1/8 x 6 1/8 in.)\nBoth signed in pencil on the front and numbered 25/55 in pencil on the reverse, published by The Paragon Press, London, both framed.",
+            "auction_house_uuid": "04aafb4b-ba3f-4971-b73f-a4316b9cd927"
+         }
+      }
+   ]
+}
